@@ -12,6 +12,7 @@ venv
 *.pot
 *.pyc
 __pycache__/
+.mypy_cache
 local_settings.py
 db.sqlite3
 media
