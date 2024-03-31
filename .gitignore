@@ -12,8 +12,13 @@ venv
 *.pot
 *.pyc
 __pycache__/
-.mypy_cache
 local_settings.py
 db.sqlite3
 media
 static
+
+# Mypy
+.mypy_cache
+
+# Pytest
+.pytest_cache
